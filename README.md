@@ -1,4 +1,4 @@
-# Ponit Of Sale System
+# Point Of Sale System
 Developed functionalities similar to Point of sale system in ASP.NET using Entity Framework
 
 STEPS TO INSTALL PROJECT 
